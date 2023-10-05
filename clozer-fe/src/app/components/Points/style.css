@@ -1,0 +1,17 @@
+.pts-label{
+  background: #fff;
+  width: 20%;
+  padding: 5px 0;
+  border: 2px solid #9cbfc7;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.pts-value{
+  background: #fff;
+  width: 20%;
+  padding: 5px 0;
+  border: 2px solid #9cbfc7;
+  border-radius: 10px;
+  text-align: center;
+}

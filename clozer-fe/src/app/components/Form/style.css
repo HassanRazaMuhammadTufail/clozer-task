@@ -1,0 +1,44 @@
+.custom-input{
+  border: 2px solid #9cbfc7;
+  height: 36px;
+  border-radius: 10px;
+  padding-left: 10px;
+  width: 80%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-wrapper{
+  display: flex;
+  align-items: baseline;
+}
+
+.custom-label{
+  width: 10%;
+}
+
+.custom-button{
+  background: #50d1fd;
+  color: #fff;
+  width: 80%;
+  height: 36px;
+  margin: 0 auto;
+  border: 1px solid #50d1fd;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.custom-button:hover{
+  background: #69d1f4;
+  color: #fff;
+  width: 80%;
+  height: 36px;
+  margin: 0 auto;
+  border: 2px solid #35a0c3;
+  border-radius: 10px;
+  font-size: 20px;
+}
